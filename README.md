@@ -1,16 +1,15 @@
 <div align="center">
 
+
+
 <img
-  src="https://capsule-render.vercel.app/api?type=soft&height=180&section=header&text=João%20Moura&fontSize=42&fontAlignY=40&desc=Software%20Engineer%20%7C%20Android%20Developer&descAlignY=65"
+  src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&section=header&reversal=true&text=JP+Moura&textBg=false&fontColor=000000&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&stroke=000000&strokeWidth=0&desc=Software+Enginner+%7C+Android+Developer&descSize=40&descAlign=50&descAlignY=68"
   width="100%"
 />
 
 <br/>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1200&center=true&vCenter=true&width=700&lines=Kotlin+%7C+Android+%7C+Jetpack+Compose;Software+Architecture;Kotlin+Multiplatform;Building+maintainable+software"
-  alt="Typing SVG"
-/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=000000&center=true&width=435&lines=Kotlin+%7C+Jetpack+Compose" alt="Typing SVG" /></a>
 
 </div>
 
